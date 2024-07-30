@@ -7,6 +7,11 @@ A Cross-platform Real-time Audio Streaming platform.
 
 # Tech Stacks
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,bootstrap,git,github,vscode" />
+  </a>
+</p>
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/NodeJS-logo?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/ExpressJS-logo?style=for-the-badge&logo=express&logoColor=white&color=grey)
