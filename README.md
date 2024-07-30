@@ -2,6 +2,7 @@
 
 [![Version 1.0](https://img.shields.io/badge/Version-v1.0.0-blue)]()
 [![Live demo](https://img.shields.io/badge/Live-Demo-blue)]
+<br>
 
 # Overview
 
@@ -16,14 +17,18 @@ Welcome to my **Project** – it is a Cross-platform Real-time Audio Streaming d
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,bootstrap,git,github,vscode" />
   </a>
 </p>
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/NodeJS-logo?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/ExpressJS-logo?style=for-the-badge&logo=express&logoColor=white&color=grey)
-![](https://img.shields.io/badge/MongoDB-logo?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/WebRTC-logo?style=for-the-badge&logo=webrtc&color=red)
 
 # Features
+
+This project includes the following features:
+<ul>
+    <li><strong>Authentication</strong> To access the platform, users can authenticate through either their Email or Phone Number.</li>
+    <li><strong>Dynamic filter & Search Options:</strong> Update according to the customer's interest in real-time.</li>
+    <li><strong>Customer Review's:</strong> Every product showcase their customer reviews.</li>
+    <li><strong>Cart Management:</strong> Add, reduce, or delete products in Cart with ease.</li>
+</ul>
+
+<br>
 - Authentication - Email/Phone No.
 - Create Profile - Upload avatar
 - Create Rooms
