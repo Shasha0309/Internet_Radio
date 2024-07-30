@@ -1,12 +1,12 @@
 # InternetRadio
 
-[![Version 1.0](https://img.shields.io/badge/Version-v1.0.0-blue)]()
 [![Live demo](https://img.shields.io/badge/Live-Demo-blue)]
+[<img src="./public/images/10131.png" width="50px" alt="github-icon">](https://e-commerce-website-fed4f.web.app/)<em>&nbsp; (Tap on this image to view the project)</em></span>     
 <br>
 
 # Overview
 
-Welcome to my **Project** – it is a Cross-platform Real-time Audio Streaming designed to emulate the functionality and user experience. With a sleek and intuitive interface, users can browse through the platform to broadcast live audio, listen to live streams, and interact with each other through real-time commenting and chat functionality,the platform utilizes WebRTC and WebSockets to enable real-time audio streaming and communication. Leveraging users to create profiles, log in, and manage their accounts, ensuring a personalized experience and secure access to the platform. 
+Welcome to my **Project** – it is a Cross-platform Real-time Audio Streaming designed to emulate the functionality and user experience. With a sleek and intuitive interface, users can browse through the platform to broadcast live audio, listen to live streams, and interact with each other through real-time commenting and chat functionality. The platform utilizes WebRTC and WebSockets to enable real-time audio streaming and communication.
 
 <br>
 
@@ -17,23 +17,30 @@ Welcome to my **Project** – it is a Cross-platform Real-time Audio Streaming d
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,bootstrap,git,github,vscode" />
   </a>
 </p>
+<br>
 
 # Features
 
 This project includes the following features:
 <ul>
-    <li><strong>Authentication</strong> To access the platform, users can authenticate through either their Email or Phone Number.</li>
-    <li><strong>Dynamic filter & Search Options:</strong> Update according to the customer's interest in real-time.</li>
-    <li><strong>Customer Review's:</strong> Every product showcase their customer reviews.</li>
-    <li><strong>Cart Management:</strong> Add, reduce, or delete products in Cart with ease.</li>
+    <li><strong>Authentication:</strong> To access the platform, users can authenticate through either their Email or Phone Number.</li>
+    <li><strong>Create Profile:</strong> Users can create a personalized profile,with the ability to Upload Avatar.</li>
+    <li><strong>Create Rooms:</strong> Users can create private Rooms to connect with others .</li>
+    <li><strong>Join Rooms:</strong> Users can easily join Rooms.</li>
+    <li><strong>Real-Time Audio Sharing:</strong> Users can use our seamless audio sharing feature to facilitate instant connections and dynamic conversations.</li>
 </ul>
 
 <br>
-- Authentication - Email/Phone No.
-- Create Profile - Upload avatar
-- Create Rooms
-- Join Rooms
-- Real-Time Audio sharing
+
+# Learnings
+
+<li><strong>WebRTC and Socket.io:</strong> Gained experience in WebRTC and Socket.io for real-time audio sharing and communication.</li> 
+<li><strong>Cross-platform compatibility:</strong> Learned to develop a single codebase that works seamlessly across various platforms and devices.</li> <li><strong>Audio processing:</strong> Improved understanding of audio processing and handling in real-time.</li> 
+<li><strong>Scalability:</strong> Implemented scalable architecture to support multiple users and real-time communication.</li> 
+<li><strong>Performance optimization:</strong> Optimized the application for real-time audio sharing, ensuring low latency and high-quality audio.</li> 
+<li><strong>User Experience:</strong> Learned to design and implement user-friendly interfaces for real-time audio sharing.</li>
+
+<br>
 
 # Setup Project
 
@@ -141,3 +148,15 @@ Follow the following steps to get development environment running using Docker.
   ```
 
 ---
+
+<br>
+
+# Conclusion
+
+Thank you for checking out this project which dives deep into cross-platform real-time audio sharing and creating an interactive user experience. 
+
+Feel free to explore the code, contribute, or use it for your personal projects. Your feedback and contributions are always welcome.
+
+<p align="center">
+  Happy coding! 💻🎧
+</p>
