@@ -1,7 +1,6 @@
 # InternetRadio
-
-[![Live demo](https://img.shields.io/badge/Live-Demo-blue)]
-[<img src="./public/images/10131.png" width="50px" alt="github-icon">](https://e-commerce-website-fed4f.web.app/)<em>&nbsp; (Tap on this image to view the project)</em></span>     
+[![Version 1.0](https://img.shields.io/badge/Version-v1.0.0-blue)]()
+[![Live demo](https://img.shields.io/badge/Live-Demo-blue)]   
 <br>
 
 # Overview
