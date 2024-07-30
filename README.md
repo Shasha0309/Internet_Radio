@@ -3,7 +3,11 @@
 [![Version 1.0](https://img.shields.io/badge/Version-v1.0.0-blue)]()
 [![Live demo](https://img.shields.io/badge/Live-Demo-blue)]
 
-A Cross-platform Real-time Audio Streaming platform.
+# Overview
+
+Welcome to my **Project** – it is a Cross-platform Real-time Audio Streaming designed to emulate the functionality and user experience. With a sleek and intuitive interface, users can browse through the platform to broadcast live audio, listen to live streams, and interact with each other through real-time commenting and chat functionality,the platform utilizes WebRTC and WebSockets to enable real-time audio streaming and communication. Leveraging users to create profiles, log in, and manage their accounts, ensuring a personalized experience and secure access to the platform. 
+
+<br>
 
 # Tech Stacks
 
