@@ -1,6 +1,6 @@
 # InternetRadio
 [![Version 1.0](https://img.shields.io/badge/Version-v1.0.0-blue)]()
-[![Live demo](https://img.shields.io/badge/Live-Demo-blue)](http://jkluradio.sidharthv.tech/)  
+
 <br>
 
 # Overview
