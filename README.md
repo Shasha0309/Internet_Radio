@@ -5,7 +5,7 @@
 
 # Overview
 
-Welcome to my **Project** – it is a Cross-platform Real-time Audio Streaming designed to emulate the functionality and user experience. With a sleek and intuitive interface, users can browse through the platform to broadcast live audio, listen to live streams, and interact with each other through real-time commenting and chat functionality. The platform utilizes WebRTC and WebSockets to enable real-time audio streaming and communication.
+Welcome to my **Project** – it is a Cross-platform Real-time Audio Streaming designed to emulate the functionality and user experience. With a sleek and intuitive interface, users can browse through the platform to broadcast live audio, listen to live streams, and interact with each other through real-time commenting. The platform utilizes WebRTC and WebSockets to enable real-time audio streaming and communication.
 
 <br>
 
