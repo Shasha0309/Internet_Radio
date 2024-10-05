@@ -1,0 +1,11 @@
+{
+  "name": "internetradio",
+  "version": "1.0.0",
+  "description": "[![Version 1.0](https://img.shields.io/badge/Version-v1.0.0-blue)]()\r [![Live demo](https://img.shields.io/badge/Live-Demo-blue)](http://jkluradio.sidharthv.tech/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
